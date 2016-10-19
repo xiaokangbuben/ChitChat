@@ -1,0 +1,17 @@
+/**main.wxss**/
+
+.card {
+  width: 600rpx;
+  height: 800rpx;
+  border-radius: 10rpx;
+  background: white;
+  box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.card__name {
+  text-align: center;
+}

@@ -1,0 +1,5 @@
+<view class="container">
+    <view class="card" bindtouchstart="tapStart" bindtouchmove="tapMove" bindtouchend="tapEnd" animation="{{animationData}}">
+        <text class="card__name">Mary</text>
+    </view>
+</view>
